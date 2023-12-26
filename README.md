@@ -14,3 +14,10 @@ Magisk Kitsune | https://huskydg.github.io/magisk-files/main.html
 # Apps
 
 - AdAway | https://adaway.org/
+- SwiftBackup | https://swiftapps.org/
+- MRepo | https://github.com/MRepoApp/MRepo
+- RevancedManager | https://github.com/ReVanced/revanced-manager
+- SD Maid SE | https://github.com/d4rken-org/sdmaid-se/releases 
+- Rboard Mods |https://rboard.dev/rboard
+
+
