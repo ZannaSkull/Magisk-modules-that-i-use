@@ -10,3 +10,7 @@
 # Magisk 
 
 Magisk Kitsune | https://huskydg.github.io/magisk-files/main.html
+
+# Apps
+
+- AdAway | https://adaway.org/
