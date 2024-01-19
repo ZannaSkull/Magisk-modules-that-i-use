@@ -1,6 +1,7 @@
 # Modules 
 
 - PlayIntegrityFix | https://github.com/chiteroman/PlayIntegrityFix
+- PlayIntegrityFixNext Fork | https://github.com/daboynb/PlayIntegrityNEXT  (Should Be better than PlayIntegrityFix)
 - Shamiko | https://github.com/LSPosed/LSPosed.github.io/releases
 - LSPosed | https://github.com/LSPosed/LSPosed
 - Viper4Android RE | https://github.com/WSTxda/ViperFX-RE-Releases
@@ -19,5 +20,6 @@ Magisk Kitsune | https://huskydg.github.io/magisk-files/main.html
 - RevancedManager | https://github.com/ReVanced/revanced-manager
 - SD Maid SE | https://github.com/d4rken-org/sdmaid-se/releases 
 - Rboard Mods | https://rboard.dev/rboard
+- Zarchiver | https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=it&gl=US
 
 
