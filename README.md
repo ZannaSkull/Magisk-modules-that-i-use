@@ -7,6 +7,7 @@
 - Viper4Android RE | https://github.com/WSTxda/ViperFX-RE-Releases
 - Universal GMS Doze | https://github.com/gloeyisk/universal-gms-doze
 - Magisk IOS Emoji | https://github.com/Keinta15/Magisk-iOS-Emoji
+- MagicalProtection | https://github.com/programminghoch10/MagicalProtection
 
 # Magisk 
 
