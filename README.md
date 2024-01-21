@@ -10,7 +10,7 @@
 
 # Magisk 
 
-Magisk Kitsune | https://huskydg.github.io/magisk-files/main.html
+Magisk Kitsune | https://huskydg.github.io/magisk-files/
 
 # Apps
 
