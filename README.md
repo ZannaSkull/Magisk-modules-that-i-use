@@ -4,6 +4,7 @@
 - PlayIntegrityFixNext Fork | https://github.com/daboynb/PlayIntegrityNEXT  (Should Be better than PlayIntegrityFix)
 - Shamiko | https://github.com/LSPosed/LSPosed.github.io/releases
 - LSPosed | https://github.com/LSPosed/LSPosed
+- LSPosed Fork Mod | https://github.com/mywalkb/LSPosed_mod (Better)
 - Viper4Android RE | https://github.com/WSTxda/ViperFX-RE-Releases
 - Universal GMS Doze | https://github.com/gloeyisk/universal-gms-doze
 - Magisk IOS Emoji | https://github.com/Keinta15/Magisk-iOS-Emoji
