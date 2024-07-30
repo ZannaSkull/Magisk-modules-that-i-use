@@ -18,6 +18,14 @@
 
 Magisk Kitsune | https://huskydg.github.io/magisk-files/
 
+# KernelSU 
+
+KernelSU | https://kernelsu.org/
+
+# APatch 
+
+APatch | https://github.com/bmax121/APatch 
+
 # Apps
 
 - AdAway | https://adaway.org/
