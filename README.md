@@ -9,7 +9,6 @@
 - Magisk IOS Emoji | https://github.com/Keinta15/Magisk-iOS-Emoji
 - MagicalProtection | https://github.com/programminghoch10/MagicalProtection
 - Nothing Phone Apps | https://www.pling.com/p/1951243
-- Viper4Android RE | https://github.com/WSTxda/ViperFX-RE-Releases
 - Viper4Android FX | https://github.com/WSTxda/ViperFX-RE-Releases
 - Viper4AndroidRepackaged | https://github.com/programminghoch10/ViPER4AndroidRepackaged
 - Zygisk-Assistant | https://github.com/snake-4/Zygisk-Assistant
