@@ -32,7 +32,6 @@ APatch | https://github.com/bmax121/APatch
 - MRepo | https://github.com/MRepoApp/MRepo
 - RevancedManager | https://github.com/ReVanced/revanced-manager
 - SD Maid SE | https://github.com/d4rken-org/sdmaid-se/releases 
-- Rboard Mods | https://rboard.dev/rboard
 - Zarchiver | https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=it&gl=US
 - AdClose | https://github.com/Xposed-Modules-Repo/com.close.hook.ads
 - BypassRootCheckPro | https://github.com/gauravssnl/BypassRootCheckPro
