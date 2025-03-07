@@ -1,7 +1,7 @@
 # Modules 
 
 - PlayIntegrityFix | https://github.com/chiteroman/PlayIntegrityFix
-- PlayIntegrityFixNext Fork | https://github.com/daboynb/PlayIntegrityNEXT  (Should Be better than PlayIntegrityFix)
+- PlayIntegrityFixNext Fork | https://github.com/daboynb/playcurlNEXT  (Should Be better than PlayIntegrityFix)
 - Shamiko | https://github.com/LSPosed/LSPosed.github.io/releases
 - LSPosed | https://github.com/LSPosed/LSPosed
 - LSPosed Fork Mod | https://github.com/mywalkb/LSPosed_mod (Better)
