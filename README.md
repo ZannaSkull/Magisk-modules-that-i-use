@@ -36,5 +36,5 @@ APatch | https://github.com/bmax121/APatch
 - AdClose | https://github.com/Xposed-Modules-Repo/com.close.hook.ads
 - BypassRootCheckPro | https://github.com/gauravssnl/BypassRootCheckPro
 - WaEnhancher | https://github.com/Dev4Mod/WaEnhancer
-
+- FDE | https://github.com/feravolt/FDE.AI-docs
 
